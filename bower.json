@@ -1,0 +1,17 @@
+{
+  "name": "concat-json",
+  "main": "concat-json.js",
+  "version": "0.0.1",
+  "authors": [
+    "Sebastián Osorio <svzosorio@boolinc.co>"
+  ],
+  "description": "Library to concatenate JSONs",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "concat",
+    "JSON"
+  ],
+  "license": "MIT"
+}
