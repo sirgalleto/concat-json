@@ -22,7 +22,10 @@ var json1 = {
 
 json1.concat(json2);
 
-/*--> 
+console.log(json1);
+
+/*
+-->
 {
   name: 'Carlos',
   last: 'Parada',
